@@ -1,1 +1,3 @@
-# hillel-ee
+# Hillel-ee
+
+## Course for experienced java programmers
